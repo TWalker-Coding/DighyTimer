@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "T-Walker Coding",
+    "longName": "DighyTimer ",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/Sail Pebble.png",
+                "menuIcon": true,
+                "name": "IMAGES_SAIL_PEBBLE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/download.png",
+                "name": "IMAGES_DOWNLOAD_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "DighyTimer",
+    "uuid": "5138495e-0140-46d9-941c-6ff48c6a8d04",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
