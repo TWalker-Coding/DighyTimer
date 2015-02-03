@@ -161,11 +161,10 @@ function viberateCheck()
 	}
 	if (secsLeft === 0)
 	{ 
-		Vibe.vibrate('double');
-    console.log("Timer Halted");
-    console.log("Im not supposted to fucking do this");
+  Vibe.vibrate('double');
+  console.log("Timer Halted");
 }
-	}
+}
 var textfield = new UI.Text(
 {
 	position: new Vector2(0, 5),
@@ -185,3 +184,4 @@ var textfield2 = new UI.Text(
 wind.add(textfield);
 wind.add(textfield2);
 wind.show();
+console.log("App Loaded");
